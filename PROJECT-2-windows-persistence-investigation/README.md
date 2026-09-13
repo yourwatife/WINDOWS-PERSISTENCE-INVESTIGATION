@@ -6,7 +6,7 @@ This project simulates a basic Security Operations Center (SOC) investigation of
 
 The objective was to identify programs configured to automatically execute when a user logs into Windows, investigate their file locations, and validate executable digital signatures.
 
-⸻
+
 
 2. Investigation Scenario
 
@@ -14,7 +14,6 @@ A Windows workstation was selected for investigation to determine whether suspic
 
 As a SOC analyst, I investigated Windows Registry Run Keys and startup programs for potentially suspicious entries.
 
-⸻
 
 3. Investigation Objectives
 
@@ -26,7 +25,6 @@ As a SOC analyst, I investigated Windows Registry Run Keys and startup programs 
 * Document evidence and findings.
 * Determine whether suspicious persistence was identified.
 
-⸻
 
 4. Tools Used
 
@@ -38,7 +36,6 @@ As a SOC analyst, I investigated Windows Registry Run Keys and startup programs 
 * Get-AuthenticodeSignature
 * GitHub
 
-⸻
 
 5. Investigation
 
