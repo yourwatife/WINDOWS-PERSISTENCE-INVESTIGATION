@@ -59,7 +59,7 @@ This command retrieves Windows startup programs and displays:
 Evidence
 
 <img width="960" height="510" alt="power shell" src="https://github.com/user-attachments/assets/ba1d6bca-579d-458a-b012-7138d41ff315" />
-<img width="960" height="510" alt="ps2" src="https://github.com/user-attachments/assets/3edcc288-90be-42c6-b826-40be34e12ac0" />
+
 
 
 Observation
