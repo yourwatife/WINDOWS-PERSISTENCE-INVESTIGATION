@@ -79,6 +79,3 @@ Investigation pending.
 
 Investigation pending.
 
-Disclaimer
-
-This project was performed in a controlled personal lab environment for cybersecurity learning and SOC analyst training.
