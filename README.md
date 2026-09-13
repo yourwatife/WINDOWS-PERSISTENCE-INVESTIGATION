@@ -26,7 +26,6 @@ As a SOC analyst, I was tasked with investigating the system for possible persis
 * Determine whether malicious persistence is present.
 * Map relevant findings to MITRE ATT&CK techniques.
 
-⸻
 
 4. Tools Used
 
